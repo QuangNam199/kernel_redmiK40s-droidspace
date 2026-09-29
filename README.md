@@ -1,0 +1,1 @@
+# kernel_redmiK40s-droidspace
